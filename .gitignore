@@ -1,0 +1,18 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Folders with video clips
+Final_clips/
+Short_clips/
+outro/
+Raw_clips/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# Instagram session cache
+*.json
